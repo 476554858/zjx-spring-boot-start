@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zjx.config.UserAutoConfiguration,\
+com.zjx.config.HelloServiceAutoConfiguration
